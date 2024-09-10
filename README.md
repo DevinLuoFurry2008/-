@@ -46,13 +46,9 @@ python main.py
 
 ## 文件结构
 ```plaintext
-├── main.py                  # 主程序入口
-├── face_recognition.py       # 人脸识别模块
-├── attendance.py             # 考勤记录管理模块
-├── data/                     # 用户数据存储目录
+├── main.py                  # 主程序
+├── data/                     # 用户数据
 │   └── faces/                # 注册用户的人脸数据
-├── logs/                     # 打卡日志存储目录
-├── requirements.txt          # Python依赖库列表
 └── README.md                 # 项目说明文件
 ```
 
